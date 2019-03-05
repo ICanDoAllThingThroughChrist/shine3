@@ -68,6 +68,8 @@ GEM
     duktape (2.0.1.0)
     erubi (1.8.0)
     execjs (2.7.0)
+    faker (1.9.3)
+      i18n (>= 0.7)
     ffi (1.10.0-x86-mingw32)
     foreman (0.64.0)
       dotenv (~> 0.7.0)
@@ -186,6 +188,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   devise
   duktape
+  faker
   foreman
   jbuilder (~> 2.5)
   pg (>= 0.18, < 2.0)
