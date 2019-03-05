@@ -1,0 +1,11 @@
+{
+  "name": "shine",
+  "private": true,
+  "dependencies": {
+    "@rails/webpacker": "^4.0.1",
+    "bootstrap": "3"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.2.1"
+  }
+}
